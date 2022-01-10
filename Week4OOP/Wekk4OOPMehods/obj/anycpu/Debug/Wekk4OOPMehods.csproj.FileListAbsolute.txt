@@ -1,4 +1,0 @@
-/Users/asecer79/Projects/Week4OOP/Wekk4OOPMehods/bin/Debug/Wekk4OOPMehods.exe
-/Users/asecer79/Projects/Week4OOP/Wekk4OOPMehods/bin/Debug/Wekk4OOPMehods.pdb
-/Users/asecer79/Projects/Week4OOP/Wekk4OOPMehods/obj/anycpu/Debug/Wekk4OOPMehods.exe
-/Users/asecer79/Projects/Week4OOP/Wekk4OOPMehods/obj/anycpu/Debug/Wekk4OOPMehods.pdb
