@@ -1,0 +1,5 @@
+/Users/asecer79/Projects/Week7OOP/Week7OOP/bin/Debug/Week7OOP.exe
+/Users/asecer79/Projects/Week7OOP/Week7OOP/bin/Debug/Week7OOP.pdb
+/Users/asecer79/Projects/Week7OOP/Week7OOP/obj/Debug/Week7OOP.csprojAssemblyReference.cache
+/Users/asecer79/Projects/Week7OOP/Week7OOP/obj/Debug/Week7OOP.exe
+/Users/asecer79/Projects/Week7OOP/Week7OOP/obj/Debug/Week7OOP.pdb

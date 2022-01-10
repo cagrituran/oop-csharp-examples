@@ -1,0 +1,5 @@
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays/bin/Debug/Week5Arrays.exe
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays/bin/Debug/Week5Arrays.pdb
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays/obj/anycpu/Debug/Week5Arrays.exe
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays/obj/anycpu/Debug/Week5Arrays.pdb
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays/obj/anycpu/Debug/Week5Arrays.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\bin\Debug\Week3OOP.exe.config
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\bin\Debug\Week3OOP.exe
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\bin\Debug\Week3OOP.pdb
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\obj\Debug\Week3OOP.csprojAssemblyReference.cache
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\obj\Debug\Week3OOP.csproj.CoreCompileInputs.cache
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\obj\Debug\Week3OOP.exe
+C:\Users\MMF-LAB-303\source\repos\Week3\Week3OOP\obj\Debug\Week3OOP.pdb

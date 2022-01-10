@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4OOP", "Week4OOP\Week4OOP.csproj", "{14740BB6-8E19-4EDD-87AE-8DC9B2F00761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wekk4OOPMehods", "Wekk4OOPMehods\Wekk4OOPMehods.csproj", "{E087B48D-9648-4F10-9ABB-28B53E457E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14740BB6-8E19-4EDD-87AE-8DC9B2F00761}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{14740BB6-8E19-4EDD-87AE-8DC9B2F00761}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{14740BB6-8E19-4EDD-87AE-8DC9B2F00761}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{14740BB6-8E19-4EDD-87AE-8DC9B2F00761}.Release|anycpu.Build.0 = Release|Any CPU
+		{E087B48D-9648-4F10-9ABB-28B53E457E8B}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{E087B48D-9648-4F10-9ABB-28B53E457E8B}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{E087B48D-9648-4F10-9ABB-28B53E457E8B}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{E087B48D-9648-4F10-9ABB-28B53E457E8B}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBF50149-BEA1-4D26-B110-74DACDE0BF6C}
+	EndGlobalSection
+EndGlobal

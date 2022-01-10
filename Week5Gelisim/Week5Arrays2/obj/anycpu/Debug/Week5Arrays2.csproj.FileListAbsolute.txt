@@ -1,0 +1,4 @@
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays2/bin/Debug/Week5Arrays2.exe
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays2/bin/Debug/Week5Arrays2.pdb
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays2/obj/anycpu/Debug/Week5Arrays2.exe
+/Users/asecer79/Projects/Week5Gelisim/Week5Arrays2/obj/anycpu/Debug/Week5Arrays2.pdb
