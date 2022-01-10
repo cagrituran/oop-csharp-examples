@@ -1,5 +1,0 @@
-/Users/asecer79/Projects/Week7OOP/LINQExamples/bin/Debug/LINQExamples.exe
-/Users/asecer79/Projects/Week7OOP/LINQExamples/bin/Debug/LINQExamples.pdb
-/Users/asecer79/Projects/Week7OOP/LINQExamples/obj/anycpu/Debug/LINQExamples.exe
-/Users/asecer79/Projects/Week7OOP/LINQExamples/obj/anycpu/Debug/LINQExamples.pdb
-/Users/asecer79/Projects/Week7OOP/LINQExamples/obj/anycpu/Debug/LINQExamples.csprojAssemblyReference.cache

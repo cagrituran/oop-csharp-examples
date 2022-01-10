@@ -1,5 +1,0 @@
-/Users/asecer79/Projects/Week5Gelisim/Week5Gelisim/bin/Debug/Week5Gelisim.exe
-/Users/asecer79/Projects/Week5Gelisim/Week5Gelisim/bin/Debug/Week5Gelisim.pdb
-/Users/asecer79/Projects/Week5Gelisim/Week5Gelisim/obj/Debug/Week5Gelisim.csprojAssemblyReference.cache
-/Users/asecer79/Projects/Week5Gelisim/Week5Gelisim/obj/Debug/Week5Gelisim.exe
-/Users/asecer79/Projects/Week5Gelisim/Week5Gelisim/obj/Debug/Week5Gelisim.pdb

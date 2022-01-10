@@ -1,6 +1,0 @@
-C:\Users\Supervisor\source\repos\Week9OOP\InterfacesAndClassTypes\obj\Debug\InterfacesAndClassTypes.csprojAssemblyReference.cache
-C:\Users\Supervisor\source\repos\Week9OOP\InterfacesAndClassTypes\bin\Debug\InterfacesAndClassTypes.exe.config
-C:\Users\Supervisor\source\repos\Week9OOP\InterfacesAndClassTypes\bin\Debug\InterfacesAndClassTypes.exe
-C:\Users\Supervisor\source\repos\Week9OOP\InterfacesAndClassTypes\bin\Debug\InterfacesAndClassTypes.pdb
-C:\Users\Supervisor\source\repos\Week9OOP\InterfacesAndClassTypes\obj\Debug\InterfacesAndClassTypes.exe
-C:\Users\Supervisor\source\repos\Week9OOP\InterfacesAndClassTypes\obj\Debug\InterfacesAndClassTypes.pdb
