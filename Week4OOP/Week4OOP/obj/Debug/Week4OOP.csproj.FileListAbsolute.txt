@@ -1,0 +1,11 @@
+/Users/asecer79/Projects/Week4OOP/Week4OOP/bin/Debug/Week4OOP.exe
+/Users/asecer79/Projects/Week4OOP/Week4OOP/bin/Debug/Week4OOP.pdb
+/Users/asecer79/Projects/Week4OOP/Week4OOP/obj/Debug/Week4OOP.csprojAssemblyReference.cache
+/Users/asecer79/Projects/Week4OOP/Week4OOP/obj/Debug/Week4OOP.exe
+/Users/asecer79/Projects/Week4OOP/Week4OOP/obj/Debug/Week4OOP.pdb
+C:\Users\msi\Desktop\calişş\Week4OOP\Week4OOP\bin\Debug\Week4OOP.exe
+C:\Users\msi\Desktop\calişş\Week4OOP\Week4OOP\bin\Debug\Week4OOP.pdb
+C:\Users\msi\Desktop\calişş\Week4OOP\Week4OOP\obj\Debug\Week4OOP.csprojAssemblyReference.cache
+C:\Users\msi\Desktop\calişş\Week4OOP\Week4OOP\obj\Debug\Week4OOP.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\calişş\Week4OOP\Week4OOP\obj\Debug\Week4OOP.exe
+C:\Users\msi\Desktop\calişş\Week4OOP\Week4OOP\obj\Debug\Week4OOP.pdb
