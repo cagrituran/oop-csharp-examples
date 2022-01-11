@@ -15,7 +15,7 @@ namespace projectt
             int i = 0;
 
 
-            while (i < 50)
+            while (i < 3)
             {
                 Console.WriteLine("---Hoşgeldiniz---");
                 Veriler.sira[i] = 0;
